@@ -9,7 +9,7 @@
 <p align="center" style="font-size:16px;">I'm a Software Engineer specializing in building websites. <br/> I'm a passionate full stack web developer from the Philippines, my passion is to deliver a functional and a good looking website. I am also open to learn new web development tools so that I can deliver more powerful websites.</p>
 
 <br />
-<h2>About the Project</h2>
+<h2>About the Website</h2>
 
 <p>
     You will learn about my skill and experiences in this website. To know more about me you can click the <a href="https://rhealabayo.com/" alt="Portfolio website" style="text-decoration:none;font-weight:bold;color:black;">link</a> to my portfolio website. 
@@ -26,12 +26,16 @@
 Web development tools:
 
 <ul style="list-style-type:disc;">
-    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/React JS.png" /> React JS </li>
-    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/HTML.png"/> <img src="public/assets/images/github_images/CSS.png"/> HTML & CSS </li>
-    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Tailwindcss.png"/> Tailwind CSS </li>
     <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/GoDaddy.png"/> GoDaddy </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Figma.png"/> Figma </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/HTML.png"/> <img src="public/assets/images/github_images/CSS.png"/> HTML & CSS </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/React JS.png" /> React JS </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Tailwindcss.png"/> Tailwind CSS </li>
     <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Visual studio code.png"/> Visual Studio Code </li>
 </ul>
+<p>
+To check the mockup design of the website using figma, click this <a href="https://www.figma.com/file/ZjJa6p8bBYFbNbfmNo3EK3/Portfolio-v.3?type=design&node-id=0%3A1&mode=design&t=cJYNs0AtxmJmlyXA-1" alt="Portfolio mock up design" style="text-decoration:none;font-weight:bold;color:black;">link</a>.
+</p>
 <br />
 
 
