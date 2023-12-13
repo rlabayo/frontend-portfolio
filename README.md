@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+<div align="center">
+    <img src="public/assets/images/logo-rl-white.png">
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+    <h1>Rhea Labayo</h1>
+</div>
 
-## Available Scripts
+<p align="center" style="font-size:16px;">I'm a Software Engineer specializing in building websites. <br/> I'm a passionate full stack web developer from the Philippines, my passion is to deliver a functional and a good looking website. I am also open to learn new web development tools so that I can deliver more powerful websites.</p>
 
-In the project directory, you can run:
+<br />
+<h2>About the Project</h2>
 
-### `npm start`
+<p>
+    You will learn about my skill and experiences in this website. To know more about me you can click the <a href="https://rhealabayo.com/" alt="Portfolio website" style="text-decoration:none;font-weight:bold;color:black;">link</a> to my portfolio website. 
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div aling="center">
+    <img src="public/assets/images/github_images/homepage.png" style="width:80%; border:1px solid gray;" />
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<br />
+<h2>Built with</h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Web development tools:
 
-### `npm run build`
+<ul style="list-style-type:disc;">
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/React JS.png" /> React JS </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/HTML.png"/> <img src="public/assets/images/github_images/CSS.png"/> HTML & CSS </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Tailwindcss.png"/> Tailwind CSS </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/GoDaddy.png"/> GoDaddy </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Visual studio code.png"/> Visual Studio Code </li>
+</ul>
+<br />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- ![CSS](public/assets/images/github_images/CSS.png)![Figma](public/assets/images/github_images/Figma.png)![Figma](public/assets/images/github_images/Filezilla.png)![Github](public/assets/images/github_images/GitHub.png)![Godaddy](public/assets/images/github_images/GoDaddy.png)![HTML](public/assets/images/github_images/HTML.png)![Javascript](public/assets/images/github_images/Javascript.png)![Laravel](public/assets/images/github_images/Laravel.png)![MySQL](public/assets/images/github_images/MySQL.png)![PHP](public/assets/images/github_images/PHP.png)![React JS](<public/assets/images/github_images/React JS.png>)![Tailwind CSS](public/assets/images/github_images/Tailwindcss.png)![Visual Studio Code](<public/assets/images/github_images/Visual studio code.png>) -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+💬 Ask me about anything and I'm happy to help. You can contact me to this email address rhea.labayo08@gmail.com.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you very much and I'm excited to talk to you soon.
