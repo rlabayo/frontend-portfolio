@@ -26,6 +26,7 @@
 Web development tools:
 
 <ul style="list-style-type:disc;">
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Figma.png" /> Figma </li>
     <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/React JS.png" /> React JS </li>
     <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/HTML.png"/> <img src="public/assets/images/github_images/CSS.png"/> HTML & CSS </li>
     <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Tailwindcss.png"/> Tailwind CSS </li>
