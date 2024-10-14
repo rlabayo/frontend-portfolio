@@ -20,7 +20,7 @@ function Footer() {
               </div>
           </div>
           <hr className="h-px my-1 bg-white border-0 text-center mx-auto w-5/6" />
-          <p className="text-center text-white text-sm">Copyright &copy; 2023</p>
+          <p className="text-center text-white text-sm">Copyright &copy; 2024</p>
       </div>
   )
 }

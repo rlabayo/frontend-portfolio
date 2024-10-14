@@ -6,7 +6,11 @@ import Home from './pages/Home';
 import About from './pages/About/Index';
 import Contact from './pages/Contact/Index';
 
+import AOS from 'aos'
+import 'aos/dist/aos.css' // You can also use <link> for styles
+
 function App() {
+  AOS.init()
   return (
       <Router>
         <Routes>
