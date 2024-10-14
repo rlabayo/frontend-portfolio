@@ -18,7 +18,52 @@ body {
 .Home {
   min-height: 100vh;
   min-width: 100vw;
-  background: radial-gradient(105.04% 102.82% at 2.85% 97.27%, #F19F9F 0%, #D85555 0%, #FFF 0.01%, #F38E8E 99.06%, #F19393 100%, #F49999 100%, #F8BDBD 100%);
+  background: radial-gradient(105.04% 102.82% at 2.85% 97.27%, #D95B5B 0%, #D95B5B 0%, #FFF 0.01%, #D95B5B 99.06%, #D95B5B 100%, #D95B5B 100%, #F49999 100%);
   background-blend-mode: plus-darker;
   backdrop-filter: blur(50px);
+}
+
+
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  /* background: #fff; */
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper-button-prev, .swiper-button-next {
+  color: var(--peach) !important;
+  margin-left: -12px;
+  font-weight: bold;
+  margin-right: -12px;
+}
+
+.swiper-pagination-bullet-active {
+  background: var(--peach, var(--peach)) !important;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li:before {
+  /* content: '✓ '; */
+  color:#F49999;
 }

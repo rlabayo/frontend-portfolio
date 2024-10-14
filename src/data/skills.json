@@ -1,0 +1,36 @@
+[
+    {
+        "frontend" : [
+            { "name" : "Bootstrap", "percent" : 70 },
+            { "name" : "CSS", "percent" : 70 },
+            { "name" : "Google Maps API", "percent" : 50 },
+            { "name" : "HTML", "percent" : 80 },
+            { "name" : "JavaScript", "percent" : 80 },
+            { "name" : "Jest", "percent" : 30 },
+            { "name" : "jQuery", "percent" : 80 },
+            { "name" : "React JS", "percent" : 60 },
+            { "name" : "Tailwind CSS", "percent" : 70 }
+        ],
+        "backend" : [
+            { "name" : "CodeIgniter", "percent" : 85 },
+            { "name" : "Laravel", "percent" : 60 },
+            { "name" : "Laravel Dusk", "percent" : 50 },
+            { "name" : "MySQL", "percent" : 85 },
+            { "name" : "PHP", "percent" : 85 },
+            { "name" : "PHPUnit", "percent" : 50 },
+            { "name" : "Postman", "percent" : 80 },
+            { "name" : "RESTful API Development", "percent" : 75 }
+        ],
+        "others" : [
+            { "name" : "Bluehost", "percent" : 60 },
+            { "name" : "Figma", "percent" : 70 },
+            { "name" : "Github", "percent" : 30 },
+            { "name" : "GoDaddy", "percent" : 65 },
+            { "name" : "Hostinger", "percent" : 40 },
+            { "name" : "Heidi SQL", "percent" : 75 },
+            { "name" : "MySQL Workbench", "percent" : 30 },
+            { "name" : "Visual Studio Code", "percent" : 85 },
+            { "name" : "WinSCP", "percent" : 75 }
+        ]
+    }
+]

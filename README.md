@@ -6,13 +6,13 @@
     <h1>Rhea Labayo</h1>
 </div>
 
-<p align="center" style="font-size:16px;">I'm a Software Engineer specializing in building websites. <br/> I'm a passionate full stack web developer from the Philippines, my passion is to deliver a functional and a good looking website. I am also open to learn new web development tools so that I can deliver more powerful websites.</p>
+<p align="center" style="font-size:16px;">I'm a Software Engineer specializing in building websites. I'm a passionate full-stack web developer from the Philippines, and my goal is to deliver functional and visually appealing websites. I am also eager to learn new web development tools to create even more powerful websites.</p>
 
 <br />
 <h2>About the Project</h2>
 
 <p>
-    You will learn about my skill and experiences in this website. To know more about me you can click the <a href="https://rhealabayo.com/" alt="Portfolio website" style="text-decoration:none;font-weight:bold;color:black;">link</a> to my portfolio website. 
+    You will learn about my skill and experiences in this website. To know more about me you can click the <a href="https://rhealabayo.site/" alt="Portfolio website" style="text-decoration:none;font-weight:bold;color:black;">link</a> to my portfolio. 
 </p>
 
 <div aling="center">
@@ -42,4 +42,4 @@ Web development tools:
 💬 Ask me about anything and I'm happy to help. You can contact me to this email address rhea.labayo08@gmail.com.
 
 
-Thank you very much and I'm excited to talk to you soon.
+Thank you very much! I'm excited to talk to you soon.

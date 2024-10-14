@@ -1,0 +1,80 @@
+[
+    {
+        "id" : 1,
+        "title" : "Pointwest Innovations Corporation",
+        "subTitle" : "IT-BPO Company",
+        "img" : "assets/images/company/Pointwest.png",
+        "body" : {
+            "companyLogo" : "assets/images/company/Pointwest.png",
+            "position" : "Software Engineer 3",
+            "year" : "August 2019 - present",
+            "responsibilities" : [
+                "<b>Website Development: </b>Collaborate on the development and maintenance of both frontend and backend websites, ensuring high performance and user experience.",
+                "<b>Client Support: </b>Provide comprehensive support to clients throughout the entire deployment process, facilitating smooth launches and ongoing functionality by preparing the deployment files and guide.",
+                "<b>Dialogue Prompt Creation: </b>Create, modify, and evaluate dialogue prompts for advanced software development concepts, such as JavaScript and ReactJS, ensuring that the code snippets and test cases are functional in relation to Large Language Models (LLMs) to enhance communication and efficiency. This work contributes to building datasets that integrate into the machine learning (ML) production cycle, supporting the development of innovative AI solutions."
+            ]
+        }
+    },
+    {
+        "id" : 2,
+        "title" : "Renditions Digital Inc",
+        "subTitle" : "IT-BPO Company",
+        "img" : "assets/images/company/RDI.png",
+        "body" : {
+            "companyLogo" : "assets/images/company/RDI.png",
+            "position" : "Applications Engineer",
+            "year" : "May 2017 - March 2019",
+            "responsibilities" : [
+                "<b>Application Workflow Documentation: </b>Created comprehensive workflow documentation based on the provided image forms to support application development and maintenance.",
+                "<b>Client Communication: </b>Collaborated with clients to understand application workflows and ensure effective communication throughout the development process.",
+                "<b>Form Application Development: </b>Developed form applications tailored to the specific workflows, enhancing user experience and operational efficiency.",
+                "<b>Technical Solutions: </b>Proposed and implemented technical solutions to address issues encountered in applications, ensuring seamless functionality."
+            ]
+        }
+    },
+    {
+        "id" : 3,
+        "title" : "Future IT Services",
+        "subTitle" : "IT Services Company",
+        "img" : "assets/images/company/FutureITservices.png",
+        "body" : {
+            "companyLogo" : "assets/images/company/FutureITservices.png",
+            "position" : "Web Developer",
+            "year" : "May 2015 - February 2017",
+            "responsibilities" : [
+                "<b>Web Application Development: </b>Developed both frontend and backend components of the client’s web-based application (Project Tracking System), ensuring the application functions properly.",
+                "<b>Operational Support: </b>Ensured the smooth operation of the web-based application by effectively addressing client and user needs, including resolving issues identified by the client."
+            ]
+        }
+    },
+    {
+        "id" : 4,
+        "title" : "Asiatype Incorporated",
+        "subTitle" : "Publishing Company",
+        "img" : "assets/images/company/Asiatype.png",
+        "body" : {
+            "companyLogo" : "assets/images/company/Asiatype.png",
+            "position" : "Web Developer",
+            "year" : "July 2014 - May 2015",
+            "responsibilities" : [
+                "<b>Web Application Development: </b>Developed both frontend and backend components of the web-based application to enhance functionality and user experience.",
+                "<b>User Support: </b>Provided assistance to users of the web-based application, addressing their needs and ensuring a smooth experience, including resolving any issues that arose."
+            ]
+        }
+    },
+    {
+        "id" : 5,
+        "title" : "Business Profiles Inc",
+        "subTitle" : "Security Consultancy Company",
+        "img" : "assets/images/company/BusinessProfilesInc.png",
+        "body" : {
+            "companyLogo" : "assets/images/company/BusinessProfilesInc.png",
+            "position" : "Web Developer",
+            "year" : "August 2012 - July 2014",
+            "responsibilities" : [
+                "<b>Website Development: </b>Developed both frontend and backend components of the company’s websites, ensuring optimal performance and user experience.",
+                "<b>Operational Support: </b>Ensured the smooth operation of the websites and provided assistance to company researchers regarding the use of the Content Management System (CMS)."
+            ]
+        }
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "id" : 1,
+        "title" : "Institutional Website",
+        "subTitle" : "Pointwest Innovations Corp",
+        "skills" : [
+            "CSS", "Figma", "FileZilla", "GoDaddy", "Heidi SQL", "HTML", "Javascript", "Laravel", "MySQL", "PHP", "ReactJS", "Tailwind CSS", "Visual Studio Code", "WinSCP"
+        ],
+        "body" : {
+            "intro" : "I developed a mobile-responsive frontend website that showcases both static and dynamic pages. This platform provides valuable resources on corporate governance, including:",
+            "features" : [
+                "<b>Overview</b> of the organization and its mission.",
+                "<b>Programs and Courses:</b> Educational offerings for directors.",
+                "<b>Membership Information:</b> Benefits and application details.",
+                "<b>Contact Information:</b> Support and inquiry details.",
+                "<b>About Us:</b> History and organizational structure.",
+                "<b>Advocacy:</b> Policy initiatives in governance.",
+                "<b>News and Updates:</b> Articles and announcements.",
+                "<b>Event Listings</b> and updates",
+                "A <b>Blog</b> featuring insights from industry experts"
+            ],
+            "finale" : "This project emphasizes user engagement through a clean, intuitive design and allows easy access to essential information and services."
+        },
+        "role" : "Frontend developer, Backend developer",
+        "img" : "assets/images/projects/ICD700x455L.png",
+        "flip" : false
+    },
+    {
+        "id" : 2,
+        "title" : "Digital Banking Website",
+        "subTitle" : "Pointwest Innovations Corp",
+        "skills" : [
+            "AJAX", "Bootstrap", "CSS", "CodeIgniter", "Figma", "Filezilla", "Google Maps API", "Heidi SQL", "HTML", "Javascript", "jQuery", "MySQL", "Paypal", "PHP", "Postman", "Visual Studio Code", "WinSCP"
+        ],
+        "body" : {
+            "intro" : "I developed and maintained a mobile-responsive website that showcases both static and dynamic pages. The platform enables users to check digital banking services, including:",
+            "features" : [
+                "<b>Loan Applications</b> for car and personal financing.",
+                "<b>Account</b> application.",
+                "<b>Card replacement</b> services for accounts.",
+                "<b>Branch Locator</b> for cash-in and cash-out services through an interactive map interface.",
+                "<b>Contact </b>for concerns by submitting and viewing support tickets.",
+                "<b>FAQs</b> Frequently Asked Questions.",
+                "<b>Services</b> offered."
+            ],
+            "finale" : "This project focuses on user experience by offering top-notch services and facilitating smooth processing of applications and transactions."
+        },
+        "role" : "Frontend developer, Backend developer",
+        "img" : "assets/images/projects/EON700x455L.png",
+        "flip" : false
+    },
+    {
+        "id" : 3,
+        "title" : "Digital Medical Forms",
+        "subTitle" : "Renditions Digital Inc",
+        "skills" : [
+            "Javascript", "Vitro API", "Visual Studio Code"
+        ],
+        "body" : {
+            "intro" : "I developed web application pages for digital medical forms, designed to simplify the process of collecting and managing patient information.",
+            "features" : [],
+            "finale" : ""
+        },
+        "role" : "Frontend developer",
+        "img" : "assets/images/projects/RDI700x455L.png",
+        "flip" : false
+    },
+    {
+        "id" : 4,
+        "title" : "Project Tracking System",
+        "subTitle" : "Asiatype Incorporated & Future IT Services",
+        "skills" : [
+            "AJAX", "Bootstrap", "CSS", "CodeIgniter", "Heidi SQL", "HTML", "Javascript", "jQuery", "MySQL", "PHP", "Visual Studio Code"
+        ],
+        "body" : {
+            "intro" : "I contributed to the development of the project tracking system that streamlines project management and enhances team collaboration. Key features include:",
+            "features" : [
+                "<b>Project Information:</b> Provide detailed insights into project objectives, timelines, team members, and resource allocation for better visibility and planning.",
+                "<b>Task Management:</b> Create, assign, and track tasks with deadlines and priorities.",
+                "<b>Real-Time:</b> Record task progress and monitor overall project advancement.",
+                "<b>Reporting:</b> Generate comprehensive reports on project status.",
+                "<b>How to</b>: A Guide for Using the Web-Based Application.",
+                "<b>User Management:</b> Manage user roles and permissions, allowing for secure access control and tailored user experiences."
+            ],
+            "finale" : "The web-based application enhances productivity and ensures that projects are monitored and completed on time and within scope."
+        },
+        "role" : "Frontend developer, Backend developer",
+        "img" : "assets/images/projects/Asiatype700x455L.png",
+        "flip" : false
+    },
+    {
+        "id" : 5,
+        "title" : "Location News Intelligence Website",
+        "subTitle" : "Business Profiles Inc",
+        "skills" : [
+            "AJAX", "Bluehost", "CSS", "Google Maps API", "HTML", "Javascript", "jQuery", "MySQL", "PHP", "Sublime"
+        ],
+        "body" : {
+            "intro" : "I developed and maintained frontend and backend website designed to provide users with up-to-date news and insights based on geographic locations. Key features include",
+            "features" : [
+                "<b>Location-Based News:</b> Deliver news articles and updates relevant to specific regions or locations based on the client's security decision needs.",
+                "<b>Interactive Map:</b> Users can visually explore news articles through an interactive map interface.",
+                "<b>Search Functionality:</b> Enable users to search for news articles using keywords, locations, or categories."
+            ],
+            "finale" : "This project aims to enhance user engagement and security by delivering relevant news tailored to individual or group preferences."
+        },
+        "role" : "Frontend developer, Backend developer",
+        "img" : "assets/images/projects/BusinessProfilesInc700x455L.png",
+        "flip" : false
+    },
+    {
+        "id" : 6,
+        "title" : "Content Management System for Location News Intelligence Website",
+        "subTitle" : "Business Profiles Inc",
+        "skills" : [
+            "AJAX", "Bluehost", "CSS", "Google Maps API", "HTML", "Javascript", "jQuery", "MySQL", "PHP", "Sublime"
+        ],
+        "body" : {
+            "intro" : "I developed and maintained a Content Management System (CMS) specifically for Location News Intelligence, designed to effectively manage and distribute news content according to geographic relevance. Key features include:",
+            "features" : [
+                "<b>User Management:</b> Set up and manage user roles and permissions, ensuring secure access tailored to the needs of different users or researchers.",
+                "<b>News Article Management:</b> Create, edit, publish and delete news articles relevant to specific locations with ease.",
+                "<b>Location-Based News:</b> Organize and display news by pinning it on a map based on geographic regions, allowing users to stay informed about local incidents."
+            ],
+            "finale" : "This CMS improves the management of news content submitted by the researchers."
+        },
+        "role" : "Frontend developer, Backend developer",
+        "img" : "assets/images/projects/BusinessProfilesIncCMS700x455L.png",
+        "flip" : false
+    }
+]
