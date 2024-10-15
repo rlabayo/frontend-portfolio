@@ -26,12 +26,12 @@
 Web development tools:
 
 <ul style="list-style-type:disc;">
-    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Figma.png" /> Figma </li>
-    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/React JS.png" /> React JS </li>
-    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/HTML.png"/> <img src="public/assets/images/github_images/CSS.png"/> HTML & CSS </li>
-    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Tailwindcss.png"/> Tailwind CSS </li>
-    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/GoDaddy.png"/> GoDaddy </li>
-    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Visual studio code.png"/> Visual Studio Code </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Figma.png" /> &nbsp; Figma </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/React JS.png" /> &nbsp; React JS </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/HTML.png"/> <img src="public/assets/images/github_images/CSS.png"/> &nbsp; HTML & CSS </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Tailwindcss.png"/> &nbsp; Tailwind CSS </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/hostinger.png"/> &nbsp; Hostinger </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Visual studio code.png"/> &nbsp; Visual Studio Code </li>
 </ul>
 <br />
 
