@@ -30,7 +30,7 @@ Web development tools:
     <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/React JS.png" /> &nbsp; React JS </li>
     <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/HTML.png"/> <img src="public/assets/images/github_images/CSS.png"/> &nbsp; HTML & CSS </li>
     <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Tailwindcss.png"/> &nbsp; Tailwind CSS </li>
-    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/hostinger.png"/> &nbsp; Hostinger </li>
+    <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Hostinger.png"/> &nbsp; Hostinger </li>
     <li style="display:flex; align-items:center;"><img src="public/assets/images/github_images/Visual studio code.png"/> &nbsp; Visual Studio Code </li>
 </ul>
 <br />
