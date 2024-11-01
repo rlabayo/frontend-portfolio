@@ -48,7 +48,7 @@ function Nav() {
                 </div>
                 <div className={`w-full block flex-grow lg:flex lg:items-center lg:text-end lg:w-auto text-left ${mobileClass}`}>
                     <div className="text-md lg:flex-grow py-2">
-                        <a href="/about" className="block my-1 mx-2 font-bold lg:inline-block lg:mt-0 text-center text-[--dark-grey] hover:text-lg dark:hover:text-[--bright-red]">
+                        <a href="/" className="block my-1 mx-2 font-bold lg:inline-block lg:mt-0 text-center text-[--dark-grey] hover:text-lg dark:hover:text-[--bright-red]">
                             About Me
                         </a>
                         <a href="/contact" className="block my-1 mx-2 font-bold lg:inline-block lg:mt-0 text-center text-[--dark-grey] hover:text-lg dark:hover:text-[--bright-red]">
