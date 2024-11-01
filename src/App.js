@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import './index.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './pages/Home';
+// import Home from './pages/Home';
 import About from './pages/About/Index';
 import Contact from './pages/Contact/Index';
 
@@ -14,8 +14,8 @@ function App() {
   return (
       <Router>
         <Routes>
-          <Route path="/" element={ <Home /> } />
-          <Route path="/about" element={ <About /> } />
+          {/* <Route path="/" element={ <Home /> } /> */}
+          <Route path="/" element={ <About /> } />
           <Route path="/contact" element={ <Contact /> } />
         </Routes>
       </Router>

@@ -40,12 +40,12 @@ function Skills() {
     }
 
   return (
-    <div className='my-10 lg:mx-[75px] md:mx-[40px] mx-0 md:pt-10 pt-4' data-aos='fade-up'>
+    <div className='mt-10 lg:mx-[75px] md:mx-[40px] mx-0 md:pt-10 pt-4' data-aos='fade-up'>
         <div className='text-center px-6'>
             <h2 className="text-[--peach] md:text-[30px] text-[24px] font-semibold"><strong className='text-[--red]'>Skills</strong> Overview</h2>
             <p className="text-[--dark-grey] md:text-[18px] text-[15px] md:w-[95%] w-100 mx-auto md:leading-normal leading-5 mt-2">I have over 10 years of experience building websites and web-based applications for companies across various industries. Below is a quick overview of my main technical skills and the tools I use.</p>
         </div>
-        <div className='flex md:flex-row flex-wrap my-4 w-full gap-4 justify-center mb-20 mt-20'>
+        <div className='flex md:flex-row flex-wrap my-4 w-full gap-4 justify-center mt-20' data-aos="fade-up">
             {
             mobileDisplay ? 
             <>

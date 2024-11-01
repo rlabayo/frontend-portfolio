@@ -23,6 +23,7 @@
         },
         "role" : "Frontend developer, Backend developer",
         "img" : "assets/images/projects/ICD700x455L.png",
+        "mobileImg" : "assets/images/projects/ICDMobile.png",
         "flip" : false
     },
     {
@@ -47,6 +48,7 @@
         },
         "role" : "Frontend developer, Backend developer",
         "img" : "assets/images/projects/EON700x455L.png",
+        "mobileImg" : "assets/images/projects/EONMobile.png",
         "flip" : false
     },
     {
@@ -63,6 +65,7 @@
         },
         "role" : "Frontend developer",
         "img" : "assets/images/projects/RDI700x455L.png",
+        "mobileImg" : "assets/images/projects/RDIMobile.png",
         "flip" : false
     },
     {
@@ -86,6 +89,7 @@
         },
         "role" : "Frontend developer, Backend developer",
         "img" : "assets/images/projects/Asiatype700x455L.png",
+        "mobileImg" : "assets/images/projects/AsiatypeMobile.png",
         "flip" : false
     },
     {
@@ -106,6 +110,7 @@
         },
         "role" : "Frontend developer, Backend developer",
         "img" : "assets/images/projects/BusinessProfilesInc700x455L.png",
+        "mobileImg" : "assets/images/projects/BusinessProfilesIncMobile.png",
         "flip" : false
     },
     {
@@ -126,6 +131,7 @@
         },
         "role" : "Frontend developer, Backend developer",
         "img" : "assets/images/projects/BusinessProfilesIncCMS700x455L.png",
+        "mobileImg" : "assets/images/projects/BusinessProfilesIncCMSMobile.png",
         "flip" : false
     }
 ]
