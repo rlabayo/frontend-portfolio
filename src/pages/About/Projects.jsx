@@ -169,7 +169,8 @@ function Projects() {
         <div className='flex flex-col w-full mt-10 pb-10 px-6 text-center'>
             <div className='flex flex-wrap gap-2 justify-center'></div>
             <img src={foodierecipe} alt="Foodie Recipe" width={800} className='mx-auto'/>
-            <i className='text-[--dark-grey] text-sm mt-2 text-center'>Note: The creation of new accounts is restricted; only the website owner can manage user accounts, as this web application is intended for personal use at this time.</i>
+            <i className='lg:w-1/2 md:w-2/3 w-full mx-auto text-[--dark-grey] text-sm mt-2 text-center'>Note: The creation of new accounts is restricted; only the website owner can manage user accounts, as this web application is intended for personal use at this time. <br></br>To log in, use this test account for testing purposes only. Username: testuser@yahoo.com, Password: password12345</i>
+   
             <a href="https://foodierecipe.rhealabayo.site" target="_blank" rel="noopener noreferrer" className='text-sm text-center font-bold text-white ring-1 ring-[--dark-red] md:p-3 p-2 rounded-md block mt-10 mb-2 mx-auto bg-[--bright-red] hover:text-[--bright-red] hover:bg-white dark:hover:bg-transparent'>Visit Website</a>
         </div>
     </div>
