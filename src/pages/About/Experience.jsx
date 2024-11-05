@@ -73,7 +73,7 @@ function Experience() {
         </div>
         <div className='md:w-1/4 px-6 w-full mx-auto'>
             {/* <a href={resume} target="_blank" rel='noopener noreferrer' alt="View Resume" className='text-center font-bold text-white ring-1 ring-[--dark-red] py-3 rounded-md block my-10 mx-auto bg-[--bright-red] hover:text-[--bright-red] hover:bg-white dark:hover:bg-transparent' download>View full resume</a> */}
-            <a href={resume} target="_blank" rel='noopener noreferrer' alt="View Resume" className='text-center font-bold text-white ring-1 ring-[--dark-red] py-3 rounded-md block my-10 mx-auto bg-[--bright-red] hover:text-[--bright-red] hover:bg-white dark:hover:bg-transparent'>
+            <a href={resume} target="_blank" rel='noopener noreferrer' alt="View Resume" className='text-sm text-center font-bold text-white ring-1 ring-[--dark-red] md:p-3 p-2 rounded-md block mt-10 mb-2 mx-auto bg-[--bright-red] hover:text-[--bright-red] hover:bg-white dark:hover:bg-transparent'>
                 View full Resume
             </a>
         </div>
