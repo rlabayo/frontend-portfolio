@@ -15,6 +15,7 @@ import { Pagination, Navigation, Autoplay } from 'swiper/modules';
 function Projects() {
     const [mobileDisplay, setMobileDisplay] = useState(false)
     const [projects, setProjects] = useState(ProjectData)
+    const foodierecipe = process.env.PUBLIC_URL + "assets/images/projects/Foodierecipe.png"
 
     useEffect(() => { 
         window.addEventListener("resize", handleResizeEvent);
@@ -147,6 +148,29 @@ function Projects() {
                 }
             </Swiper>
             </div>
+        </div>
+        <div className='lg:mx-[75px] md:mx-[40px] mx-0 pt-10' data-aos='fade-up'>
+            <div className='text-center px-6'>
+                <h2 className="text-[--peach] md:text-[30px] text-[24px] font-semibold"><strong className='text-[--red]'>Personal</strong> Website Project</h2>
+                <p className="text-[--dark-grey] md:text-[18px] text-[15px] md:w-[95%] w-100 mx-auto md:leading-normal leading-5 mt-2">Foodie Recipe is a web application designed to help users organize and share their favorite recipes. It allows them to easily note the ingredients and instructions for dishes they've cooked, making it a convenient tool for food enthusiasts to track their culinary adventures.</p>
+                <div className='mx-auto'>
+                    <p className='text-[--dark-grey] md:text-[17px] text-[15px] mt-4 text-center font-bold'>Tools and technologies:</p>
+                    <div className='flex flex-wrap justify-center space-x-2 items-center mt-2'>
+                        <span className='px-3 py-1 mt-1 text-[--light-red] text-[12px] border rounded-lg border-[--light-red] font-semibold hover:text-white hover:bg-[--light-red]' >Laravel</span>
+                        <span className='px-3 py-1 mt-1 text-[--light-red] text-[12px] border rounded-lg border-[--light-red] font-semibold hover:text-white hover:bg-[--light-red]' >Laravel Blade</span>
+                        <span className='px-3 py-1 mt-1 text-[--light-red] text-[12px] border rounded-lg border-[--light-red] font-semibold hover:text-white hover:bg-[--light-red]' >JavaScript</span>
+                        <span className='px-3 py-1 mt-1 text-[--light-red] text-[12px] border rounded-lg border-[--light-red] font-semibold hover:text-white hover:bg-[--light-red]' >TailwindCSS</span>
+                        <span className='px-3 py-1 mt-1 text-[--light-red] text-[12px] border rounded-lg border-[--light-red] font-semibold hover:text-white hover:bg-[--light-red]' >Hostinger Web Hosting</span>
+                        <span className='px-3 py-1 mt-1 text-[--light-red] text-[12px] border rounded-lg border-[--light-red] font-semibold hover:text-white hover:bg-[--light-red]' >Github</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div className='flex flex-col w-full mt-10 pb-10 px-6 text-center'>
+            <div className='flex flex-wrap gap-2 justify-center'></div>
+            <img src={foodierecipe} alt="Foodie Recipe" width={800} className='mx-auto'/>
+            <i className='text-[--dark-grey] text-sm mt-2 text-center'>Note: The creation of new accounts is restricted; only the website owner can manage user accounts, as this web application is intended for personal use at this time.</i>
+            <a href="https://foodierecipe.rhealabayo.site" target="_blank" rel="noopener noreferrer" className='text-sm text-center font-bold text-white ring-1 ring-[--dark-red] md:p-3 p-2 rounded-md block mt-10 mb-2 mx-auto bg-[--bright-red] hover:text-[--bright-red] hover:bg-white dark:hover:bg-transparent'>Visit Website</a>
         </div>
     </div>
   )
