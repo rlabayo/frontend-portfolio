@@ -24,7 +24,7 @@ function Experience() {
     <div className='bg-white my-10 lg:mx-[75px] md:mx-[40px] mx-0 md:py-10 py-4' data-aos='fade-up'>
         <div className='text-center px-6'>
             <h2 className="text-[--peach] md:text-[30px] text-[24px] font-semibold"><strong className='text-[--red]'>Work</strong> Experiences</h2>
-            <p className="text-[--dark-grey] md:text-[18px] text-[15px] md:w-[95%] w-100 mx-auto md:leading-normal leading-5 mt-2">The companies below have shaped my growth and allowed me to explore various web technologies.</p>
+            <p className="text-[--dark-grey] text-[18px] md:w-[95%] w-100 mx-auto leading-normal mt-2">The companies below have shaped my growth and allowed me to explore various web technologies.</p>
         </div>
         <div className='my-6 space-y-2 mt-10'>
             {
@@ -71,8 +71,7 @@ function Experience() {
                 })
             }
         </div>
-        <div className='md:w-1/4 px-6 w-full mx-auto'>
-            {/* <a href={resume} target="_blank" rel='noopener noreferrer' alt="View Resume" className='text-center font-bold text-white ring-1 ring-[--dark-red] py-3 rounded-md block my-10 mx-auto bg-[--bright-red] hover:text-[--bright-red] hover:bg-white dark:hover:bg-transparent' download>View full resume</a> */}
+        <div className='flex'>
             <a href={resume} target="_blank" rel='noopener noreferrer' alt="View Resume" className='text-sm text-center font-bold text-white ring-1 ring-[--dark-red] md:p-3 p-2 rounded-md block mt-10 mb-2 mx-auto bg-[--bright-red] hover:text-[--bright-red] hover:bg-white dark:hover:bg-transparent'>
                 View full Resume
             </a>
