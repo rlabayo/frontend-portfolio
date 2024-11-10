@@ -22,8 +22,7 @@
             "finale" : "This project emphasizes user engagement through a clean, intuitive design and allows easy access to essential information and services."
         },
         "role" : "Frontend developer, Backend developer",
-        "img" : "assets/images/projects/ICD700x455L.png",
-        "mobileImg" : "assets/images/projects/ICDMobile.png",
+        "img" : "assets/images/projects/ICD.png",
         "flip" : false
     },
     {
@@ -47,8 +46,7 @@
             "finale" : "This project focuses on user experience by offering top-notch services and facilitating smooth processing of applications and transactions."
         },
         "role" : "Frontend developer, Backend developer",
-        "img" : "assets/images/projects/EON700x455L.png",
-        "mobileImg" : "assets/images/projects/EONMobile.png",
+        "img" : "assets/images/projects/PointwestEON.png",
         "flip" : false
     },
     {
@@ -64,8 +62,7 @@
             "finale" : ""
         },
         "role" : "Frontend developer",
-        "img" : "assets/images/projects/RDI700x455L.png",
-        "mobileImg" : "assets/images/projects/RDIMobile.png",
+        "img" : "assets/images/projects/RenditionsDigitalInc.png",
         "flip" : false
     },
     {
@@ -88,8 +85,7 @@
             "finale" : "The web-based application enhances productivity and ensures that projects are monitored and completed on time and within scope."
         },
         "role" : "Frontend developer, Backend developer",
-        "img" : "assets/images/projects/Asiatype700x455L.png",
-        "mobileImg" : "assets/images/projects/AsiatypeMobile.png",
+        "img" : "assets/images/projects/Asiatype.png",
         "flip" : false
     },
     {
@@ -109,13 +105,12 @@
             "finale" : "This project aims to enhance user engagement and security by delivering relevant news tailored to individual or group preferences."
         },
         "role" : "Frontend developer, Backend developer",
-        "img" : "assets/images/projects/BusinessProfilesInc700x455L.png",
-        "mobileImg" : "assets/images/projects/BusinessProfilesIncMobile.png",
+        "img" : "assets/images/projects/BusinessProfilesInc.png",
         "flip" : false
     },
     {
         "id" : 6,
-        "title" : "Content Management System for Location News Intelligence Website",
+        "title" : "Content Management System",
         "subTitle" : "Business Profiles Inc",
         "skills" : [
             "AJAX", "Bluehost", "CSS", "Google Maps API", "HTML", "Javascript", "jQuery", "MySQL", "PHP", "Sublime"
@@ -130,8 +125,7 @@
             "finale" : "This CMS improves the management of news content submitted by the researchers."
         },
         "role" : "Frontend developer, Backend developer",
-        "img" : "assets/images/projects/BusinessProfilesIncCMS700x455L.png",
-        "mobileImg" : "assets/images/projects/BusinessProfilesIncCMSMobile.png",
+        "img" : "assets/images/projects/BusinessProfilesIncCMS.png",
         "flip" : false
     }
 ]
