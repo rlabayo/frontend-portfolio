@@ -13,24 +13,9 @@ import 'swiper/css/autoplay';
 import { Pagination, Navigation, Autoplay } from 'swiper/modules';
 
 function Projects() {
-    const [mobileDisplay, setMobileDisplay] = useState(false)
     const [projects, setProjects] = useState(ProjectData)
     const foodierecipe = process.env.PUBLIC_URL + "assets/images/projects/Foodierecipe.png"
 
-    useEffect(() => { 
-        window.addEventListener("resize", handleResizeEvent);
-    }, []);
-
-    const handleResizeEvent = () => {
-        let viewWidth = window.innerWidth
-        let smWidth = 952
-        
-        if(viewWidth > smWidth) {
-            setMobileDisplay(false)
-        }else {
-            setMobileDisplay(true)
-        }
-    }
     
     const handleFlip = (id) => {
         const newState = projects.map((obj) => {
@@ -96,12 +81,13 @@ function Projects() {
                 >
                 {
                     projects.map((val, key) => {
-                        const imgDisplay = mobileDisplay ? val.mobileImg : val.img
                         return (
                             <SwiperSlide key={val.id}>
                                 {
                                     val.flip === false ?
-                                    <div className="card w-full rounded-lg rounded-b-lg my-1 md:h-[360px] h-[360px] min-h-full bg-cover bg-center mx-auto cursor-pointer" key={val.id} style={{height: 360,backgroundImage : `url(${imgDisplay})`}} onClick={() => handleFlip(val.id)} ></div>
+                                    <div className="card w-full rounded-lg rounded-b-lg my-1 md:h-[360px] h-[360px] min-h-full bg-cover bg-center mx-auto cursor-pointer flex items-center justify-center" key={val.id} style={{height: 360,backgroundImage : `url(${val.img})`}} onClick={() => handleFlip(val.id)} >
+                                        <h1 className='text-white md:text-4xl text-3xl font-bold px-4 hover:text-[--peach] hover:shadow-2xl'>{ val.title }</h1>
+                                    </div>
                                     :
                                     <div className="card w-full shadow-2xl shadow-[--peach-white] border-2 border-[--peach-white] rounded-lg rounded-b-lg my-1 bg-white md:h-[360px] h-[360px] min-h-full mx-auto" key={val.id}>
                                         <div className='w-full my-auto'>
